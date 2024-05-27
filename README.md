@@ -1,4 +1,4 @@
-# Project Summaries
+# Project Summaries (Projects for Certification Assessment)
 
 ## Project 1: Diabetes Prediction
 - **Dataset:** [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
