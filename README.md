@@ -15,6 +15,13 @@
   - Based on the evaluation metrics, simple linear regression or regularized regression techniques like Lasso and Ridge are suitable for this dataset. SVR might not be the best choice in terms of prediction accuracy.
   - Lasso Regression is recommended.
 
+## Streamlit App for Project 2
+This Streamlit app predicts sales based on TV ads using the models built in Project 2.
+
+### How to Run the Streamlit App
+1. **Clone the repository:**
+
+
 ## Project 3: Employee Attrition Prediction
 - **Objective:** Handle the missing data in the given dataset and create 2 ML models and compare them.
 - **ML Algorithms:** Logistic Regression, SVM
